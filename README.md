@@ -36,7 +36,8 @@ is above the significance level of .05. This tells us the PSI across all
 lots is similar to the population mean of 1498.78 PSI.  
 
 Individual lots  
-![Lot_1_TTest](https://user-images.githubusercontent.com/91306342/156369025-c2634396-dc05-40ec-918a-c90a9428cac9.png) ![Lot_2_TTEST](https://user-images.githubusercontent.com/91306342/156369043-c21bc16d-1c06-4f4f-8bb2-006af6d3b5cc.png) ![Lot_3_TTest](https://user-images.githubusercontent.com/91306342/156369067-25e69471-30e9-400b-9cc6-46dbea59cbb2.png)
+![Lot_1_TTest](https://user-images.githubusercontent.com/91306342/156369025-c2634396-dc05-40ec-918a-c90a9428cac9.png)  
+![Lot_2_TTEST](https://user-images.githubusercontent.com/91306342/156369043-c21bc16d-1c06-4f4f-8bb2-006af6d3b5cc.png) ![Lot_3_TTest](https://user-images.githubusercontent.com/91306342/156369067-25e69471-30e9-400b-9cc6-46dbea59cbb2.png)  
 For Lot 1, the p-value is below the .05 significance level so the null hypothesis  
 can be rejected. This means the PSI across the lot is statistically  
 different from the population mean.  
