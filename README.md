@@ -29,19 +29,31 @@ of concern, Lot 3 has a variance much higher thann the rest and that is
 70% higher than the lowest allowable variance.  
 
 ## T-Tests on Suspension Coils
-All lots vs the population mean
-![All_Lots_vs_Mean_T](https://user-images.githubusercontent.com/91306342/156364454-098fa632-fbe2-4d8f-a7f4-2e11c7be9724.PNG)
+All lots vs the population mean  
+![All_Lots_vs_Mean_T](https://user-images.githubusercontent.com/91306342/156364454-098fa632-fbe2-4d8f-a7f4-2e11c7be9724.PNG)  
 There is not enough evidence to reject the null hypothesis- our p-value of .06  
 is above the significance level of .05. This tells us the PSI across all  
 lots is similar to the population mean of 1498.78 PSI.  
 
-Individual lots
+Individual lots  
 ![Lot_1_TTest](https://user-images.githubusercontent.com/91306342/156369025-c2634396-dc05-40ec-918a-c90a9428cac9.png) ![Lot_2_TTEST](https://user-images.githubusercontent.com/91306342/156369043-c21bc16d-1c06-4f4f-8bb2-006af6d3b5cc.png) ![Lot_3_TTest](https://user-images.githubusercontent.com/91306342/156369067-25e69471-30e9-400b-9cc6-46dbea59cbb2.png)
 For Lot 1, the p-value is below the .05 significance level so the null hypothesis  
 can be rejected. This means the PSI across the lot is statistically  
 different from the population mean.  
 For lots 2 and 3 the p values are above .05, so they are statistically  
 similar to the population mean.
+
+## Study Design: MechaCar vs Competition
+To Compare MechaCar to the competition we have many options, for example:  
+
+null hypothesis = Mechacar is similar to its competition in the following metrics:  
+- City fuel efficiency  
+- Crash-test safety ratings  
+- Engine life by mileage  
+- Functionality in low temperatures (starting, engine performance, etc)  
+
+
+
 
 
 
